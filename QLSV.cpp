@@ -3,7 +3,7 @@
 #include <vector>
 using namespace std;
 
-// Test thui cha
+// Test thui cha co cai nit
 class SV 
 {
     private:
